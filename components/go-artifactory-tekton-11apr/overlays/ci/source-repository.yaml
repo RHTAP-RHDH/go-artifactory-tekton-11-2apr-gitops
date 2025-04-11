@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: go-artifactory-tekton-11apr-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/go-artifactory-tekton-11-2apr
